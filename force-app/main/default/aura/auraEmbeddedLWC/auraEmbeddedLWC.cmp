@@ -43,6 +43,7 @@
             </lightning:layout>
         </div>
 
+        
         <div class="slds-card__footer">
             Embed a Lightning Web component in a parent Aura component and
             communicate with events
